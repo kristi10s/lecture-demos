@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My name is: [Kristi].
+=======
+My name is: [sven].
+>>>>>>> upstream/master
